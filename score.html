@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Score</title>
+    <link rel="stylesheet" href="home.css" />
+    <link rel="stylesheet" href="utilites.css" />
+  </head>
+  <body>
+    <div class="container flex-column flex-center">
+      <div class="card-1 flex-column text-center">
+        <h1>MindMaze</h1>
+        <div class="card">
+          <p>Thanks For Playing</p>
+        </div>
+        <div class="score">
+          <p>Your Score is <span id="finalScore">__</span></p>
+        </div>
+        <div class="flex-column btn">
+          <button id="playAgainButton">Play Again</button>
+          <button id="goHomeButton">Go Home</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Audio elements -->
+    <audio id="cheerAudio">
+      <source src="assests/cheer.mp3" type="audio/mpeg" />
+      Your browser does not support the audio element.
+    </audio>
+    <audio id="booAudio">
+      <source src="assests/boo.mp3" type="audio/mpeg" />
+      Your browser does not support the audio element.
+    </audio>
+
+    <script src="score.js"></script>
+  </body>
+</html>

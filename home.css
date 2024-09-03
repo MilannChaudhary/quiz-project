@@ -1,0 +1,49 @@
+.container {
+  width: 100vw;
+  height: 100vh;
+  background-color: beige;
+}
+
+.card-1 {
+  background-color: aqua;
+  width: 400px;
+  height: 500px;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1.5rem;
+  border-radius: 2rem;
+  background-image: url(assests/quiz-home-background.jpg);
+  background-size: cover; /* Makes the image cover the entire body */
+  background-position: center; /* Centers the image */
+  background-repeat: no-repeat;
+  color: white;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #a70000;
+}
+
+p {
+  font-size: 2.5rem;
+  text-shadow: 1px 1px 0 #000;
+}
+
+button {
+  padding: 0.8rem 2rem;
+  border-radius: 5rem;
+  border: 1px solid #b38ad5;
+  color: #b38ad5;
+}
+
+button:hover {
+  background-color: #b38ad5;
+  color: white;
+  transition: all 0.5s;
+}
+
+#finalScore {
+  font-size: 6rem;
+  color: black;
+  text-shadow: 2px 2px 0 #ffffff;
+}

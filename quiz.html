@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>QUIZ</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="utilites.css" />
+  </head>
+  <body>
+    <div class="container flex-column">
+      <div class="hud">
+        <div class="hud-item">
+          <p id="progressText" class="hud-prefix">Question</p>
+          <div id="progressBar">
+            <div id="progressBarFull"></div>
+          </div>
+        </div>
+        <div class="hud-item">
+          <p class="hud-prefix">Score</p>
+          <h1 class="hud-main-text" id="score">0</h1>
+        </div>
+      </div>
+      <div class="container-2 flex-column">
+        <div id="question" class="flex-column">Your Question is Here?</div>
+        <div id="answer">
+          <ul id="options" class="grid list-style-none grid-answer">
+            <!-- Options will be inserted here -->
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div id="timer">90</div>
+    <audio id="timerAudio">
+      <source src="assests/click.mp3" type="audio/mpeg" />
+      Your browser does not support the audio element.
+    </audio>
+    <script src="quiz.js"></script>
+  </body>
+</html>

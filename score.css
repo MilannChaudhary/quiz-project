@@ -1,0 +1,55 @@
+.container {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  background-color: beige;
+}
+
+.card-1 {
+  width: 50rem;
+  height: auto;
+  background-color: #ffdcff82;
+  border-radius: 1rem;
+  padding: 2rem;
+  text-align: center;
+}
+
+.score {
+  font-size: 2rem;
+  margin: 1rem 0;
+}
+
+.btn {
+  margin-top: 2rem;
+}
+
+button {
+  background-color: #b38ad5;
+  border: none;
+  border-radius: 5rem;
+  width: 10rem;
+  height: 3rem;
+  color: white;
+  font-size: 1.6rem;
+  cursor: pointer;
+  margin: 0.5rem;
+}
+
+button:hover {
+  background-color: #a06abf;
+}
+
+/* Styling for the score text container */
+.score p {
+  font-size: 1.6rem; /* Adjust size for "Your Score is" */
+}
+
+/* Styling for the score value */
+.score h1 {
+  font-size: 3.2rem; /* Double the size of "Your Score is" */
+  margin: 0; /* Remove default margin to keep alignment neat */
+  font-weight: bold; /* Optional: make the score more prominent */
+}

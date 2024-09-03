@@ -1,0 +1,169 @@
+{
+  "quiz": [
+    {
+      "question": "When was the Premier League founded?",
+      "options": ["1992", "1990", "1994", "1988"],
+      "answer": "1992"
+    },
+    {
+      "question": "Which team has won the most Premier League titles?",
+      "options": ["Manchester United", "Liverpool", "Chelsea", "Arsenal"],
+      "answer": "Manchester United"
+    },
+    {
+      "question": "Who holds the record for the most goals in a single Premier League season?",
+      "options": [
+        "Mohamed Salah",
+        "Alan Shearer",
+        "Harry Kane",
+        "Erling Haaland"
+      ],
+      "answer": "Erling Haaland"
+    },
+    {
+      "question": "What is the longest unbeaten run in Premier League history?",
+      "options": ["Manchester United", "Chelsea", "Liverpool", "Arsenal"],
+      "answer": "Arsenal"
+    },
+    {
+      "question": "Which player has made the most Premier League appearances?",
+      "options": [
+        "Frank Lampard",
+        "Ryan Giggs",
+        "Gareth Barry",
+        "Steven Gerrard"
+      ],
+      "answer": "Gareth Barry"
+    },
+    {
+      "question": "Who was the first manager to win the Premier League?",
+      "options": [
+        "Arsène Wenger",
+        "Jose Mourinho",
+        "Alex Ferguson",
+        "Kenny Dalglish"
+      ],
+      "answer": "Alex Ferguson"
+    },
+    {
+      "question": "Which team was the first to go an entire Premier League season unbeaten?",
+      "options": ["Chelsea", "Manchester United", "Liverpool", "Arsenal"],
+      "answer": "Arsenal"
+    },
+    {
+      "question": "What is the highest-scoring Premier League match of all time?",
+      "options": [
+        "Manchester City 8-0 Watford",
+        "Portsmouth 7-4 Reading",
+        "Tottenham 9-1 Wigan",
+        "Arsenal 7-5 Newcastle"
+      ],
+      "answer": "Portsmouth 7-4 Reading"
+    },
+    {
+      "question": "Which club holds the record for the most consecutive wins in a Premier League season?",
+      "options": ["Liverpool", "Manchester City", "Chelsea", "Arsenal"],
+      "answer": "Manchester City"
+    },
+    {
+      "question": "Who is the all-time leading goalscorer in Premier League history?",
+      "options": [
+        "Thierry Henry",
+        "Alan Shearer",
+        "Wayne Rooney",
+        "Sergio Aguero"
+      ],
+      "answer": "Alan Shearer"
+    },
+    {
+      "question": "Which Premier League team is known as 'The Red Devils'?",
+      "options": [
+        "Liverpool",
+        "Arsenal",
+        "Manchester United",
+        "Tottenham Hotspur"
+      ],
+      "answer": "Manchester United"
+    },
+    {
+      "question": "Who is the most expensive signing in Premier League history?",
+      "options": [
+        "Paul Pogba",
+        "Jack Grealish",
+        "Kai Havertz",
+        "Virgil van Dijk"
+      ],
+      "answer": "Jack Grealish"
+    },
+    {
+      "question": "Which goalkeeper has the most clean sheets in Premier League history?",
+      "options": ["David de Gea", "Petr Cech", "Ederson", "Alisson"],
+      "answer": "Petr Cech"
+    },
+    {
+      "question": "Who was the first player to score 100 Premier League goals?",
+      "options": [
+        "Alan Shearer",
+        "Thierry Henry",
+        "Les Ferdinand",
+        "Ian Wright"
+      ],
+      "answer": "Alan Shearer"
+    },
+    {
+      "question": "Which team was the first to be relegated from the Premier League?",
+      "options": [
+        "Nottingham Forest",
+        "Oldham Athletic",
+        "Crystal Palace",
+        "Wimbledon"
+      ],
+      "answer": "Nottingham Forest"
+    },
+    {
+      "question": "Who is the youngest player to score in the Premier League?",
+      "options": [
+        "Michael Owen",
+        "Wayne Rooney",
+        "James Milner",
+        "Harvey Elliott"
+      ],
+      "answer": "Harvey Elliott"
+    },
+    {
+      "question": "Which club won the Premier League title with the lowest points total?",
+      "options": [
+        "Manchester United",
+        "Leicester City",
+        "Blackburn Rovers",
+        "Chelsea"
+      ],
+      "answer": "Manchester United"
+    },
+    {
+      "question": "Which team suffered the heaviest defeat in Premier League history?",
+      "options": [
+        "Southampton",
+        "Ipswich Town",
+        "Derby County",
+        "Manchester United"
+      ],
+      "answer": "Southampton"
+    },
+    {
+      "question": "Who holds the record for the most assists in a single Premier League season?",
+      "options": [
+        "Kevin De Bruyne",
+        "Thierry Henry",
+        "Ryan Giggs",
+        "Frank Lampard"
+      ],
+      "answer": "Kevin De Bruyne"
+    },
+    {
+      "question": "How many teams participate in the Premier League each season?",
+      "options": ["18", "20", "22", "24"],
+      "answer": "20"
+    }
+  ]
+}
